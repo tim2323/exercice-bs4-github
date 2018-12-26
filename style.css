@@ -1,0 +1,55 @@
+#body{
+
+}
+#img-bg{
+    background-image: url('/bg-masthead.jpg');
+    height: 800px;
+    
+
+    background-size: cover;
+}
+#m1 {
+    margin-top: 200px;
+}
+#bouton {
+    background-color: #64a19d;
+}
+#pt {
+    padding-top: 200px;
+    background: linear-gradient(to bottom,#161616 0,rgba(22,22,22,.9) 75%,rgba(22,22,22,.8) 100%);
+   
+}
+#bg1 {
+    height: 350px;
+    width:100%;
+}
+#pt2{
+    padding-top: 180px;
+    
+}
+#h4{
+    padding-top: 90px;
+    
+}
+#bg2 {
+    height: 333px;
+    width: 100%;
+   
+
+}
+#pt3{
+    padding-top: 120px;
+    background-color: black
+}
+.t1 {
+    border-left: solid aquamarine 5px;
+    padding-left: 30px;
+}
+#barre1 {
+    background-color: aquamarine;
+    width: 30%;
+}
+#barre2 {
+    background-color: aquamarine;
+    width: 30%;
+}
