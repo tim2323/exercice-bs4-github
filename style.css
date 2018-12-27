@@ -1,4 +1,6 @@
-#body{
+.body{
+    font-family: 'Nunito';
+    background-color: darkgrey;
 
 }
 #img-bg{
@@ -10,9 +12,18 @@
 }
 #m1 {
     margin-top: 200px;
+    font-size: 6.5rem;
+    line-height: 6.5rem;
+    letter-spacing: .8rem;
+}
+
+#m2 {
+    font-size: 1.5rem;
+ 
 }
 #bouton {
     background-color: #64a19d;
+    
 }
 #pt {
     padding-top: 200px;
@@ -25,6 +36,7 @@
 }
 #pt2{
     padding-top: 180px;
+    padding-bottom: 180px;
     
 }
 #h4{
@@ -53,3 +65,44 @@
     background-color: aquamarine;
     width: 30%;
 }
+hr {
+    height: 5px;
+}
+#bouton-search {
+    background-color: aquamarine;
+    height: 51px;
+}
+#inputEmail {
+    width: 666px;
+}
+#bg-footer{
+    background-image: url('./cs6-simple-recap/images/bg-signup.jpg');
+    height: 450px;
+    background-size: cover;
+    
+}
+#centrer{
+    margin-top: 100px;
+}
+#bg-contact{
+    background: linear-gradient(to bottom,#161616 0,rgba(22,22,22,.9) 75%,rgba(22,22,22,.8) 100%);
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+.text{
+    text-decoration: none !important; 
+    color: aquamarine;
+}
+#text {
+    text-decoration: none !important;
+    color: #64a19d;
+}
+#copyright{
+    
+}
+#icones{
+    padding-top: 80px !important;
+}
+
+/* background: linear-gradient(to bottom,#161616 0, rgba(22,22,22,.8) 100%,rgba(22,22,22,.9) 75% 
+background: linear-gradient(to bottom,#161616 0,rgba(22,22,22,.9) 75%,rgba(22,22,22,.8) 100%); */

@@ -19,5 +19,8 @@
   "homepage": "https://github.com/aug126/cs6-simple-recap#readme",
   "dependencies": {
     "bootstrap": "^4.2.1"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.6.3"
   }
 }
