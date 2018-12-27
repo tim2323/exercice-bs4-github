@@ -87,7 +87,7 @@ hr {
 #bg-contact{
     background: linear-gradient(to bottom,#161616 0,rgba(22,22,22,.9) 75%,rgba(22,22,22,.8) 100%);
     padding-top: 150px;
-    padding-bottom: 150px;
+    padding-bottom: 66px;
 }
 .text{
     text-decoration: none !important; 
